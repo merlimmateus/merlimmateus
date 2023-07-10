@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateus Merlim Mattos</h1>
 <h3 align="center">I'm a Software Developer for over 3 years 👨‍💻.</h3>
 <h3 align="center">Currently, I'm involved in multiple freelance projects, utilizing tools such as Java, Spring, Spring Boot, AWS, Docker, MongoDB, Vue.js, TypeScript, JavaScript, and other technologies. I'm enthusiastic about agile methods, flexible environments, and continuous delivery.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merlimmateus&label=Profile%20views&color=0e75b6&style=flat" alt="merlimmateus" /> </p>
-
-- 💬 Ask me about **Java,Spring,PHP,Laravel,Vue and Angular**
 
 - 📫 How to reach me **merlimmateus@gmail.com**
 
