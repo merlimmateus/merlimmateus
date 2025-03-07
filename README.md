@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateus Merlim Mattos</h1>
-<h3 align="center">I'm a Software Developer for over 3 years 👨‍💻.</h3>
-<h3 align="center">Currently, i am working as Software Developer, utilizing tools such as Java, Spring, Spring Boot, Python, Django, Docker, Vue, TypeScript, JavaScript, and other technologies. I'm enthusiastic about agile methods, flexible environments, and continuous delivery.</h3>
+<h3 align="center">I'm a Software Engineer for over 3 years 👨‍💻.</h3>
+<h3 align="center">Currently, i am working as Software Engineer, utilizing tools such as Java, Spring, Spring Boot, Docker, Vue, TypeScript, JavaScript, and other technologies. I'm enthusiastic about agile methods, flexible environments, and continuous delivery.</h3>
 
 - 📫 How to reach me **merlimmateus@gmail.com**
 
